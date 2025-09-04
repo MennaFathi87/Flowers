@@ -1,4 +1,5 @@
-import 'package:flowerss/views/home_view.dart';
+
+import 'package:flowerss/views/welcome_view.dart';
 import 'package:flutter/material.dart';
 import 'dart:async'; //Timer
 
@@ -16,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Timer(Duration(seconds: 3), () {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const HomePage()),
+        MaterialPageRoute(builder: (context) => const WelcomeView()),
       );
     });
   }
