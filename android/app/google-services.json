@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636564319853",
+    "project_id": "flowora-dd51c",
+    "storage_bucket": "flowora-dd51c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636564319853:android:792290502cf99dbcbad964",
+        "android_client_info": {
+          "package_name": "com.example.flowerss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEWAPbFF3quo3mdghQJSUNAVINyBlCo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
